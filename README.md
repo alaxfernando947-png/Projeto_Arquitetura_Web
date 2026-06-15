@@ -485,8 +485,8 @@ Análise e Desenvolvimento de Sistemas – 2026
 
 # Relato Pessoal – Microserviço de Inventário
 
-**Autor:** Alax Fernando  
-**Curso:** Análise e Desenvolvimento de Sistemas (ADS)  
+**Autor:** Alax Fernando de Freitas Nunes 
+**Curso:** Análise e Desenvolvimento de Sistemas  
 **Disciplina:** Arquitetura de Dispositivos Móveis e Microserviços  
 **Professor:** Sândalo Bessa  
 
@@ -566,7 +566,7 @@ Considero que essa experiência ampliou significativamente minha visão sobre o 
 
 ## Autor
 
-**Alax Fernando**  
+**Alax Fernando de Freitas Nunes**  
 *Análise e Desenvolvimento de Sistemas – 2026*
 
 **Especialização no projeto:**
